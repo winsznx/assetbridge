@@ -1,8 +1,8 @@
 {
-  "name": "chainregistry",
+  "name": "assetbridge",
   "version": "1.0.0",
   "private": true,
-  "description": "Decentralized username/domain registry with ownership transfer on Base and Stacks",
+  "description": "Cross-chain asset migration protocol with validator consensus on Base and Stacks blockchains.",
   "scripts": {
     "dev": "pnpm --filter web dev",
     "build": "pnpm --filter web build",
